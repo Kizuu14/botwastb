@@ -1,0 +1,17 @@
+node_modules/
+session/
+session_wa/
+.env
+*.log
+schedule_data.json
+users.json
+afk_data.json
+blacklist_data.json
+point_data.json
+sider_data.json
+notes_data.json
+*.mp3
+*.mp4
+*.jpg
+*.jpeg
+*.png
